@@ -2,6 +2,7 @@
 padding: 0px;
 }
 
+
 body {
     background-image: url('./Picsart_23-08-26_03-35-26-286.jpg');
     background-size: cover;
@@ -15,12 +16,13 @@ body {
 
     header {
         position: fixed;
-        top: 0;
+        top
+        : 0;
         width: 100%;
-        /* other styles */
+       
       }
 
-
+ /* other styles */
 h1{
     font-size: 100px;
 }
@@ -28,15 +30,17 @@ h1:hover{
     color: rgb(121, 21, 21);
 }
 h2{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .paragraph{
 font-size: 20px;
+padding-left: 8%;
 }
 
 .profile{
     font-size: 20px;
+    padding-left: 8%;
     }
     
     .folio{
@@ -50,7 +54,7 @@ width: 1550px;
 
     .s2{
         width: 1500px;
-    margin-left: -80px;
+    margin-left: 80px;
             }
         
             .s3{
@@ -65,7 +69,8 @@ width: 1550px;
                     background-repeat: no-repeat;
                     background-position: center;
                     background-attachment: fixed;
-                                   
+                    width: 100%;
+                   
                 }
                 .sicon{
                     margin-top: 50px; 
@@ -85,3 +90,11 @@ text-decoration: none;
 color: rgb(26, 211, 208);
 transition: 100ms;
                 }   
+
+
+              
+
+            
+
+                      
+                      

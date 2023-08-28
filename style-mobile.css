@@ -1,0 +1,33 @@
+/* max(1100) min (700) */
+/* CSS */
+
+
+body {
+    background-image: url('./Picsart_23-08-26_03-35-26-286.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
+  .container {
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 8%;
+    max-width: 100%;
+  }
+  
+ 
+
+  

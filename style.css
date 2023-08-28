@@ -1,0 +1,87 @@
+*{margin: 0px;
+padding: 0px;
+}
+
+body {
+    background-image: url('./Picsart_23-08-26_03-35-26-286.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+  }
+
+
+
+    header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        /* other styles */
+      }
+
+
+h1{
+    font-size: 100px;
+}
+h1:hover{
+    color: rgb(121, 21, 21);
+}
+h2{
+    font-size: 30px;
+}
+
+.paragraph{
+font-size: 20px;
+}
+
+.profile{
+    font-size: 20px;
+    }
+    
+    .folio{
+width: fit-content;
+    }
+    
+    .s1{
+width: 1550px;
+
+    }
+
+    .s2{
+        width: 1500px;
+    margin-left: -80px;
+            }
+        
+            .s3{
+                width: 1500px;
+            
+                    }
+
+                .icon{
+                    background-image: url(./white-blurred-background_1034-249.avif);
+                    background-size: cover;
+                    height: 200px;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-attachment: fixed;
+                                   
+                }
+                .sicon{
+                    margin-top: 50px; 
+
+                }
+                .social{
+                    color: rgb(0, 0, 0);
+font-size: 50px;
+
+margin: 30px;
+
+text-decoration: none;
+
+                }
+
+                .social:hover{
+color: rgb(26, 211, 208);
+transition: 100ms;
+                }   
